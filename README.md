@@ -37,8 +37,8 @@
 
 ## Websites
 
-* [fmchallenge.osamc.de](https://github.com/SpotlightKid/fmchallenge.osamc.de) / [fmchallenge-webapp](https://github.com/SpotlightKid/fmchallenge-webapp) - Static and dynamic parts of the web site for the Open Source Music FM-Challenge 2018
-* [nexus-challenge.osamc.de](https://github.com/SpotlightKid/nexus-challenge.osamc.de) / [nexus-challenge-webapp](https://github.com/SpotlightKid/nexus-challenge-webapp) - Static and dynamic parts of the web site for the Open Source Music Nexus Challenge 2019
+* [fmchallenge.osamc.de](https://github.com/SpotlightKid/fmchallenge.osamc.de) / [webapp](https://github.com/SpotlightKid/fmchallenge-webapp) - Static and dynamic parts of the Open Source Music FM-Challenge 2018 web site
+* [nexus-challenge.osamc.de](https://github.com/SpotlightKid/nexus-challenge.osamc.de) / [webapp](https://github.com/SpotlightKid/nexus-challenge-webapp) - Static and dynamic parts of the Open Source Music Nexus Challenge 2019 web site
 * [papermill](https://github.com/SpotlightKid/papermill) - A clean, text-centric theme for the static site generator Nikola
 
 
@@ -68,4 +68,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<p style="font-size: smaller"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>&nbsp;This document is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>

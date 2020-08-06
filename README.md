@@ -1,6 +1,6 @@
-# Selected Projects
+## Selected Projects
 
-## Audio Production
+### Audio Production
 
 * [ardour2fxp](https://github.com/SpotlightKid/ardour2fxp) - Convert between Ardour XML and binary FXP VST preset files
 * [jack-audio-tools](https://github.com/SpotlightKid/jack-audio-tools) - A collection of utilities and tools for the JACK audio ecosystem
@@ -10,7 +10,7 @@
 * [pyvorbiscomment](https://github.com/SpotlightKid/pyvorbiscomment) - A pure Python drop-in replacement for the vorbiscomment command line tool
 * [reface-dx-lib](https://github.com/SpotlightKid/reface-dx-lib) - A simple patch librarian for the Yamaha Reface DX synthesizer (WIP)
 
-### Plugins
+#### Plugins
 
 * [cookiecutter-dpf-effect](https://github.com/SpotlightKid/cookiecutter-dpf-effect) - A cookiecutter project template for DISTRHO Plugin Framework (DPF) audio effect plugins
 * [faustfilters](https://github.com/SpotlightKid/faustfilters) - A collection of virtual-analog filter multi-format audio plugins
@@ -19,14 +19,13 @@
 * [ykchorus](https://github.com/SpotlightKid/ykchorus) - A chorus audio effect plugin based on DSP code by Togu Audio Line (TAL)
 
 
-### MIDI
+#### MIDI
 
 * [miditk-smf](https://github.com/SpotlightKid/miditk-smf) - A Python toolkit for working with Standard MIDI files
 * [python-rtmidi](https://github.com/SpotlightKid/python-rtmidi) - Python bindings for the cross-platform MIDI I/O library RtMidi
 
 
-
-## Embedded & IoT
+### Embedded & IoT
 
 * [micropython-ftplib](https://github.com/SpotlightKid/micropython-ftplib) - An FTP client library for MicroPython.
 * [micropython-osc](https://github.com/SpotlightKid/micropython-osc) - A minimal OSC client and server library for MicroPython
@@ -35,19 +34,19 @@
 * [picoredis](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython
 
 
-## Websites
+### Websites
 
 * [fmchallenge.osamc.de](https://github.com/SpotlightKid/fmchallenge.osamc.de) / [webapp](https://github.com/SpotlightKid/fmchallenge-webapp) - Static and dynamic parts of the Open Source Music FM-Challenge 2018 web site
 * [nexus-challenge.osamc.de](https://github.com/SpotlightKid/nexus-challenge.osamc.de) / [webapp](https://github.com/SpotlightKid/nexus-challenge-webapp) - Static and dynamic parts of the Open Source Music Nexus Challenge 2019 web site
 * [papermill](https://github.com/SpotlightKid/papermill) - A clean, text-centric theme for the static site generator Nikola
 
 
-## Miscellaneous
+### Miscellaneous
 
 * [personal-scripts](https://github.com/SpotlightKid/personal-scripts) - Dumping ground for personal utility scripts
 
 
-## Open Music
+### Open Music
 
 * [nexus-challenge-2019-entry](https://github.com/SpotlightKid/nexus-challenge-2019-entry) - Ardour project for my (winning) entry to the Open Source Music Nexus Challenge
 
@@ -68,4 +67,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p style="font-size: smaller"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>&nbsp;This document is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+---
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0) This document is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License](http://creativecommons.org/licenses/by-sa/4.0/).

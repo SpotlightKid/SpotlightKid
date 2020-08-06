@@ -15,6 +15,7 @@
 * [cookiecutter-dpf-effect](https://github.com/SpotlightKid/cookiecutter-dpf-effect) - A cookiecutter project template for DISTRHO Plugin Framework (DPF) audio effect plugins
 * [faustfilters](https://github.com/SpotlightKid/faustfilters) - A collection of virtual-analog filter multi-format audio plugins
 * [midiomatic](https://github.com/SpotlightKid/midiomatic) - A collection of MIDI filter, generator and processor plugins
+* [OSAMC LV2 plug-in workshop](https://github.com/osamc-lv2-workshop) - Various simple LV2 plugin examples
 * [transportgate](https://github.com/SpotlightKid/transportgate) - An audio gate plugin controlled by transport state
 * [ykchorus](https://github.com/SpotlightKid/ykchorus) - A chorus audio effect plugin based on DSP code by Togu Audio Line (TAL)
 
@@ -51,21 +52,11 @@
 * [nexus-challenge-2019-entry](https://github.com/SpotlightKid/nexus-challenge-2019-entry) - Ardour project for my (winning) entry to the Open Source Music Nexus Challenge
 
 
-<!--
-**SpotlightKid/SpotlightKid** is a _special_ repository because its `README.md`
-(this file) appears on your GitHub profile.
+## Collaborations
 
-Here are some ideas to get you started:
+* [jack_mixer](https://github.com/jack-mixer/jack_mixer) - A GTK+ JACK audio mixer app
+* [jackclient-python](https://github.com/spatialaudio/jackclient-python) - Python bindings for the JACK library
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ---
 

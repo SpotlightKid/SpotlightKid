@@ -13,6 +13,7 @@
 #### Plugins
 
 * [cookiecutter-dpf-effect](https://github.com/SpotlightKid/cookiecutter-dpf-effect) - A cookiecutter project template for DISTRHO Plugin Framework (DPF) audio effect plugins
+* [cookiecutter-dpf-faust](https://github.com/SpotlightKid/cookiecutter-dpf-faust) - A cookiecutter project template for DISTRHO Plugin Framework (DPF) audio effect plugins using FAUST
 * [faustfilters](https://github.com/SpotlightKid/faustfilters) - A collection of virtual-analog filter multi-format audio plugins
 * [midiomatic](https://github.com/SpotlightKid/midiomatic) - A collection of MIDI filter, generator and processor plugins
 * [OSAMC LV2 plug-in workshop](https://github.com/osamc-lv2-workshop) - Various simple LV2 plugin examples

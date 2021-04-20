@@ -4,7 +4,7 @@
 
 * [ardour2fxp](https://github.com/SpotlightKid/ardour2fxp) - Convert between Ardour XML and binary FXP VST preset files
 * [jack-audio-tools](https://github.com/SpotlightKid/jack-audio-tools) - A collection of utilities and tools for the JACK audio ecosystem
-* [jack-matchmaker](https://github.com/SpotlightKid/jack-matchmaker) - Auto-connect new JACK ports matching the patterns given on the command line
+* [jack-matchmaker](https://github.com/SpotlightKid/jack-matchmaker) - Auto-connect new [JACK] ports matching the patterns given on the command line
 * [jack-select](https://github.com/SpotlightKid/jack-select) - A systray application to quickly change the JACK-DBus configuration from QjackCtl presets
 * [moony-lv2-scripts](https://github.com/SpotlightKid/moony-lv2-scripts) - A collection of Lua scripts for the moony LV2 plugin
 * [pyvorbiscomment](https://github.com/SpotlightKid/pyvorbiscomment) - A pure Python drop-in replacement for the vorbiscomment command line tool
@@ -56,10 +56,24 @@
 ## Collaborations
 
 * [jack_mixer](https://github.com/jack-mixer/jack_mixer) - A GTK+ JACK audio mixer app
-* [jackclient-python](https://github.com/spatialaudio/jackclient-python) - Python bindings for the JACK library
+* [jackclient-python](https://github.com/spatialaudio/jackclient-python) - Pythonic bindings for the [JACK] library using cffi
+* [pyjacklib](https://github.com/jackaudio/pyjacklib) - Low-level Python bindings for the [JACK] library using ctypes
+* [QJackCapture](https://github.com/SpotlightKid/qjackcapture) - A GUI for [jack_capture] using PyQt5.
+
+
+<!--
+## Technologies
+
+[<img src="https://unpkg.com/simple-icons@v3/icons/python.svg" width="24" height="24">](https://python.org)
+[<img src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" width="24" height="24">](https://isocpp.org)
+-->
 
 
 ---
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0) This document is licensed under a [Creative Commons Attribution-ShareAlike 4.0
 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+
+[jack_capture]: https://github.com/kmatheussen/jack_capture
+[JACK]: https://jackaudio.org/

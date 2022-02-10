@@ -12,13 +12,16 @@
 
 #### Plugins
 
+* [DF Zita Rev1](https://github.com/SpotlightKid/dfzitarev1) - A feedback-delay-network reverb build with DPF and based on a FAUST library demo
 * [cookiecutter-dpf-effect](https://github.com/SpotlightKid/cookiecutter-dpf-effect) - A cookiecutter project template for DISTRHO Plugin Framework (DPF) audio effect plugins
 * [cookiecutter-dpf-faust](https://github.com/SpotlightKid/cookiecutter-dpf-faust) - A cookiecutter project template for DISTRHO Plugin Framework (DPF) audio effect plugins using FAUST
-* [faustfilters](https://github.com/SpotlightKid/faustfilters) - A collection of virtual-analog filter multi-format audio plugins
-* [midiomatic](https://github.com/SpotlightKid/midiomatic) - A collection of MIDI filter, generator and processor plugins
+* [FAUST filters](https://github.com/SpotlightKid/faustfilters) - A collection of virtual-analog filter multi-format audio plugins
+* [MIDI-o-matic](https://github.com/SpotlightKid/midiomatic) - A collection of MIDI filter, generator and processor plugins
 * [OSAMC LV2 plug-in workshop](https://github.com/osamc-lv2-workshop) - Various simple LV2 plugin examples
-* [transportgate](https://github.com/SpotlightKid/transportgate) - An audio gate plugin controlled by transport state
-* [ykchorus](https://github.com/SpotlightKid/ykchorus) - A chorus audio effect plugin based on DSP code by Togu Audio Line (TAL)
+* [SendMixer](https://github.com/SpotlightKid/sendmixer) - A stereo channel strip plugin with one master gain and two pre/post-fader sends
+* [Stereo Cross Delay](https://github.com/SpotlightKid/stereocrossdelay) - A stereo delay plugin with feedback and cross-mixing
+* [Transport Gate](https://github.com/SpotlightKid/transportgate) - An audio gate plugin controlled by transport state
+* [YK Chorus](https://github.com/SpotlightKid/ykchorus) - A chorus audio effect plugin based on DSP code by Togu Audio Line (TAL)
 
 
 #### MIDI

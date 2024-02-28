@@ -1,11 +1,13 @@
 ## Selected Projects
 
+
 ### Collaborations
 
 * [jack_mixer](https://github.com/jack-mixer/jack_mixer) - A GTK+ JACK audio mixer app
 * [jackclient-python](https://github.com/spatialaudio/jackclient-python) - Pythonic bindings for the [JACK] library using cffi
 * [pyjacklib](https://github.com/jackaudio/pyjacklib) - Low-level Python bindings for the [JACK] library using ctypes
 * [QJackCapture](https://github.com/SpotlightKid/qjackcapture) - A GUI for [jack_capture] using PyQt5.
+
 
 ### Audio Production
 
@@ -17,6 +19,7 @@
 * [moony-lv2-scripts](https://github.com/SpotlightKid/moony-lv2-scripts) - A collection of Lua scripts for the moony [LV2] plugin
 * [pyvorbiscomment](https://github.com/SpotlightKid/pyvorbiscomment) - A pure Python drop-in replacement for the vorbiscomment command line tool
 * [reface-dx-lib](https://github.com/SpotlightKid/reface-dx-lib) - A simple patch librarian for the Yamaha Reface DX synthesizer (WIP)
+
 
 #### Plugins
 
@@ -40,7 +43,8 @@
 
 ### Embedded & IoT
 
-* [micropython-ftplib](https://github.com/SpotlightKid/micropython-ftplib) - An FTP client library for MicroPython.
+* [mrequests](https://github.com/SpotlightKid/mrequests) - An HTTP client library (not only) for MicroPython with an API similar to requests
+* [micropython-ftplib](https://github.com/SpotlightKid/micropython-ftplib) - An FTP client library for MicroPython
 * [micropython-osc](https://github.com/SpotlightKid/micropython-osc) - A minimal OSC client and server library for MicroPython
 * [micropython-stm-lib](https://github.com/SpotlightKid/micropython-stm-lib) - A collection of modules and examples for MicroPython (not only) on STM32F4
 * [osc2mqtt](https://github.com/SpotlightKid/osc2mqtt) - An OSC to MQTT bridge based on pyliblo and paho-mqtt
@@ -58,9 +62,11 @@
 
 * [personal-scripts](https://github.com/SpotlightKid/personal-scripts) - Dumping ground for personal utility scripts
 
+
 ## Presentations
 
 * [How to play FLOSS keyboards like it's 1978](https://github.com/SpotlightKid/talk-sonoj-2023) - Slides, Markdown sources, links and resources for my [Sonoj 2023] presentation
+
 
 ## Open Music
 

@@ -39,6 +39,7 @@
 
 * [miditk-smf](https://github.com/SpotlightKid/miditk-smf) - A Python toolkit for working with Standard MIDI files
 * [python-rtmidi](https://github.com/SpotlightKid/python-rtmidi) - Python bindings for the cross-platform MIDI I/O library RtMidi
+* [ewi-usb-config-cli](https://github.com/SpotlightKid/ewi-usb-config-cli) - Configure an Akai EWI USB MIDI wind controller via MIDI from the command line
 
 
 ### Embedded & IoT

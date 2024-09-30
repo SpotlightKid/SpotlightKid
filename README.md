@@ -15,8 +15,9 @@
 * [jack-audio-tools](https://github.com/SpotlightKid/jack-audio-tools) - A collection of utilities and tools for the [JACK] audio ecosystem
 * [jack-matchmaker](https://github.com/SpotlightKid/jack-matchmaker) - Auto-connect new [JACK] ports matching the patterns given on the command line
 * [jack-select](https://github.com/SpotlightKid/jack-select) - A systray application to quickly change the [JACK]-DBus configuration from QjackCtl presets
-* [jacket](https://github.com/SpotlightKid/jacket) - A Nim wrapper for the [JACK] client-side C API aka libjack
+* [jacket](https://github.com/SpotlightKid/jacket) - A [Nim] wrapper for the [JACK] client-side C API aka libjack
 * [moony-lv2-scripts](https://github.com/SpotlightKid/moony-lv2-scripts) - A collection of Lua scripts for the moony [LV2] plugin
+* [nymph](https://github.com/SpotlightKid/nymph) - A [Nim] library for writing audio and MIDI plugins conforming to the [LV2] standard
 * [pyvorbiscomment](https://github.com/SpotlightKid/pyvorbiscomment) - A pure Python drop-in replacement for the vorbiscomment command line tool
 * [reface-dx-lib](https://github.com/SpotlightKid/reface-dx-lib) - A simple patch librarian for the Yamaha Reface DX synthesizer (WIP)
 
@@ -95,4 +96,5 @@ International License](http://creativecommons.org/licenses/by-sa/4.0/).
 [jack_capture]: https://github.com/kmatheussen/jack_capture
 [JACK]: https://jackaudio.org/
 [LV2]: https://lv2plug.in/
+[Nim]: https://nim-lang.org/
 [Sonoj 2023]: https://sonoj.org/2023/

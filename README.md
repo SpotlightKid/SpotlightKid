@@ -24,8 +24,8 @@
 
 #### Plugins
 
-* [cookiecutter-dpf-effect](https://github.com/SpotlightKid/cookiecutter-dpf-effect) - A cookiecutter project template for DISTRHO Plugin Framework ([DPF]) audio effect plugins
-* [cookiecutter-dpf-faust](https://github.com/SpotlightKid/cookiecutter-dpf-faust) - A cookiecutter project template for DISTRHO Plugin Framework ([DPF]) audio effect plugins using [FAUST]
+* [cookiecutter-dpf-effect](https://github.com/SpotlightKid/cookiecutter-dpf-effect) - A [cookiecutter] project template for DISTRHO Plugin Framework ([DPF]) audio effect plugins
+* [dpf-faust-project-template](https://github.com/SpotlightKid/dpf-faust-project-template) - A [copier] project template for DISTRHO Plugin Framework ([DPF]) audio effect plugins using [FAUST]
 * [DF JPverb](https://github.com/SpotlightKid/dfjpverb) - A lush algorithmic reverb build with [DPF] and based on a [FAUST] library function
 * [DF Zita Rev1](https://github.com/SpotlightKid/dfzitarev1) - A feedback-delay-network reverb build with [DPF] and based on a [FAUST] library demo
 * [FAUST filters](https://github.com/SpotlightKid/faustfilters) - A collection of virtual-analog filter multi-format audio plugins
@@ -92,10 +92,12 @@
 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 
-[DPF]: https://github.com/DISTRHO/DPF
-[FAUST]: https://faust.grame.fr/
+[cookiecutter]: https://github.com/audreyr/cookiecutter
+[copier]: https://github.com/copier-org/copier
+[dpf]: https://github.com/DISTRHO/DPF
+[faust]: https://faust.grame.fr/
 [jack_capture]: https://github.com/kmatheussen/jack_capture
 [JACK]: https://jackaudio.org/
-[LV2]: https://lv2plug.in/
-[Nim]: https://nim-lang.org/
-[Sonoj 2023]: https://sonoj.org/2023/
+[lv2]: https://lv2plug.in/
+[nim]: https://nim-lang.org/
+[sonoj 2023]: https://sonoj.org/2023/

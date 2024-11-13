@@ -26,6 +26,7 @@
 
 * [cookiecutter-dpf-effect](https://github.com/SpotlightKid/cookiecutter-dpf-effect) - A [cookiecutter] project template for DISTRHO Plugin Framework ([DPF]) audio effect plugins
 * [dpf-faust-project-template](https://github.com/SpotlightKid/dpf-faust-project-template) - A [copier] project template for DISTRHO Plugin Framework ([DPF]) audio effect plugins using [FAUST]
+* [ADT](https://github.com/SpotlightKid/adt) - Automatic double tracking (not only) for vocals
 * [DF JPverb](https://github.com/SpotlightKid/dfjpverb) - A lush algorithmic reverb build with [DPF] and based on a [FAUST] library function
 * [DF Zita Rev1](https://github.com/SpotlightKid/dfzitarev1) - A feedback-delay-network reverb build with [DPF] and based on a [FAUST] library demo
 * [FAUST filters](https://github.com/SpotlightKid/faustfilters) - A collection of virtual-analog filter multi-format audio plugins

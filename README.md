@@ -9,17 +9,15 @@
 * [QJackCapture](https://github.com/SpotlightKid/qjackcapture) - A GUI for [jack_capture] using PyQt5.
 
 
-### Audio Production
+### Audio Production and Audio Software Development
 
 * [ardour2fxp](https://github.com/SpotlightKid/ardour2fxp) - Convert between Ardour XML and binary FXP VST preset files
+* [faustdoctor](https://github.com/SpotlightKid/faustdoctor) - A post-processor for FAUST source exports
 * [jack-audio-tools](https://github.com/SpotlightKid/jack-audio-tools) - A collection of utilities and tools for the [JACK] audio ecosystem
 * [jack-matchmaker](https://github.com/SpotlightKid/jack-matchmaker) - Auto-connect new [JACK] ports matching the patterns given on the command line
 * [jack-select](https://github.com/SpotlightKid/jack-select) - A systray application to quickly change the [JACK]-DBus configuration from QjackCtl presets
 * [jacket](https://github.com/SpotlightKid/jacket) - A [Nim] wrapper for the [JACK] client-side C API aka libjack
-* [moony-lv2-scripts](https://github.com/SpotlightKid/moony-lv2-scripts) - A collection of Lua scripts for the moony [LV2] plugin
 * [nymph](https://github.com/SpotlightKid/nymph) - A [Nim] library for writing audio and MIDI plugins conforming to the [LV2] standard
-* [pyvorbiscomment](https://github.com/SpotlightKid/pyvorbiscomment) - A pure Python drop-in replacement for the vorbiscomment command line tool
-* [reface-dx-lib](https://github.com/SpotlightKid/reface-dx-lib) - A simple patch librarian for the Yamaha Reface DX synthesizer (WIP)
 
 
 #### Plugins
@@ -32,6 +30,7 @@
 * [DF Zita Rev1](https://github.com/SpotlightKid/dfzitarev1) - A feedback-delay-network reverb build with [DPF] and based on a [FAUST] library demo
 * [FAUST filters](https://github.com/SpotlightKid/faustfilters) - A collection of virtual-analog filter multi-format audio plugins
 * [MIDI-o-matic](https://github.com/SpotlightKid/midiomatic) - A collection of MIDI filter, generator and processor plugins
+* [moony-lv2-scripts](https://github.com/SpotlightKid/moony-lv2-scripts) - A collection of Lua scripts for the moony [LV2] plugin
 * [OSAMC LV2 plug-in workshop](https://github.com/osamc-lv2-workshop) - Various simple [LV2] plugin examples
 * [SendMixer](https://github.com/SpotlightKid/sendmixer) - A stereo channel strip plugin with one master gain and two pre/post-fader sends
 * [Stereo Cross Delay](https://github.com/SpotlightKid/stereocrossdelay) - A stereo delay plugin with feedback and cross-mixing

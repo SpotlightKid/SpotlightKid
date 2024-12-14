@@ -26,8 +26,8 @@
 * [dpf-faust-project-template](https://github.com/SpotlightKid/dpf-faust-project-template) - A [copier] project template for DISTRHO Plugin Framework ([DPF]) audio effect plugins using [FAUST]
 * [ADT](https://github.com/SpotlightKid/adt) - Automatic double tracking (not only) for vocals
 * [CChorus](https://github.com/SpotlightKid/cchorus) - A versatile stereo chorus
-* [DF JPverb](https://github.com/SpotlightKid/dfjpverb) - A lush algorithmic reverb build with [DPF] and based on a [FAUST] library function
-* [DF Zita Rev1](https://github.com/SpotlightKid/dfzitarev1) - A feedback-delay-network reverb build with [DPF] and based on a [FAUST] library demo
+* [DF JPverb](https://github.com/SpotlightKid/dfjpverb) - A lush algorithmic reverb built with [DPF] and based on a [FAUST] library function
+* [DF Zita Rev1](https://github.com/SpotlightKid/dfzitarev1) - A feedback-delay-network reverb built with [DPF] and based on a [FAUST] library demo
 * [FAUST filters](https://github.com/SpotlightKid/faustfilters) - A collection of virtual-analog filter multi-format audio plugins
 * [MIDI-o-matic](https://github.com/SpotlightKid/midiomatic) - A collection of MIDI filter, generator and processor plugins
 * [moony-lv2-scripts](https://github.com/SpotlightKid/moony-lv2-scripts) - A collection of Lua scripts for the moony [LV2] plugin
